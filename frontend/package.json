@@ -53,6 +53,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^6.1.2",
     "quasar-app-extension-qdatetimepicker": "^1.0.0-rc.18",
+    "webpack": "@4.46.0",
     "workbox-webpack-plugin": "^6.6.0"
   },
   "browserslist": [
